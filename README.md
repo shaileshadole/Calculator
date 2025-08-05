@@ -34,7 +34,7 @@ calculator/
 ├── index.html
 ├── package.json
 ├── README.md
-├── screenshot.png       👈 (make sure it’s renamed like this)
+├── screenshot.png
 ```
 
 ---
@@ -93,7 +93,7 @@ GitHub: [shaileshadole](https://github.com/shaileshadole)
 ## 🚀 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shailesh-adole-01306a303/)
-- ✉️ Email: adoleshailesh2@gmail.com
+- ✉️ [Email](adoleshailesh2@gmail.com)
 
 ---
 
