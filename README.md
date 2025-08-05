@@ -2,7 +2,7 @@
 
 A simple yet functional calculator built with **React** and the `useReducer` hook. This project demonstrates core React concepts including component reusability, state management with reducers, and clean UI structure using CSS.
 
-![Calculator Screenshot](screenshot.png) <!-- Add a screenshot in your project folder with this name -->
+![Calculator Screenshot](screenshot.png)
 
 ---
 
@@ -18,6 +18,8 @@ A simple yet functional calculator built with **React** and the `useReducer` hoo
 ---
 
 ## 📁 Project Structure
+
+```
 calculator/
 ├── public/
 ├── src/
@@ -31,9 +33,7 @@ calculator/
 ├── package.json
 ├── README.md
 ├── screenshot.png       👈 (make sure it’s renamed like this)
-
-
-
+```
 
 ---
 
@@ -69,32 +69,32 @@ npm install
 
 # Start the development server
 npm start
-
-
-Open http://localhost:3000 to view it in the browser.
-
-🖼️ Preview
-Add a screenshot of your calculator here by placing a file named screenshot.png in the root directory.
-
-🙌 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
-📄 License
-This project is open source and available under the MIT License.
-
-✨ Acknowledgments
-Inspired by the React calculator build concept explained by Web Dev Simplified and extended with features and cleaner formatting logic.
-
-📬 Contact
-Developer: Shailesh Adole
-GitHub: @shaileshadole
+```
 
 ---
 
-### ✅ Final Step
+Open http://localhost:3000 to view it in the browser.
 
-- Rename `"your-username"` in links to your actual GitHub username.
-- Add a `screenshot.png` of your calculator in the root directory for visual representation.
-- If you'd like, I can also generate a `LICENSE` file for MIT.
+## 🖼️ Screenshot
 
-Let me know if you want to include deployment info (like Vercel/Netlify) or dark theme support!
+Make sure `screenshot.png` is in the project root (as shown above).
+
+---
+
+## 🧑‍💻 Author
+
+**Shailesh Adole**  
+GitHub: [shaileshadole](https://github.com/shaileshadole)
+
+---
+
+## 🚀 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shailesh-adole-01306a303/)
+- ✉️ Email: adoleshailesh2@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
