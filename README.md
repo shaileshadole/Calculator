@@ -1,5 +1,7 @@
 # React Calculator App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple yet functional calculator built with **React** and the `useReducer` hook. This project demonstrates core React concepts including component reusability, state management with reducers, and clean UI structure using CSS.
 
 ![Calculator Screenshot](screenshot.png)
